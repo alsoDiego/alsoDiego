@@ -1,7 +1,5 @@
 ## Olá pessoal 👋
 
-<img width="auto" src="https://avatars3.githubusercontent.com/u/68669255?s=460&u=00b976f06ad799b0f7aa99770dfc72f4b43b47f0&v=4">
-
 Sou pesquisador em Neuroimagem e Psicofisiologia na UFRJ 🧠
 <br/> Além disso, eu sou um FullStack Developer :computer:
 
@@ -16,6 +14,7 @@ Sou pesquisador em Neuroimagem e Psicofisiologia na UFRJ 🧠
 
 <!--
 **soares-ad/soares-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Photo: <img width="auto" src="https://avatars3.githubusercontent.com/u/68669255?s=460&u=00b976f06ad799b0f7aa99770dfc72f4b43b47f0&v=4">
 
 Here are some ideas to get you started:
 
