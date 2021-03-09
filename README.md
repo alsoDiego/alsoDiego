@@ -3,8 +3,8 @@
 Sou pesquisador de Iniciação Científica em Neuroimagem e Psicofisiologia na UFRJ 🧠
 <br/> Além disso, eu estou me tornando desenvolvedor web :computer:
 
- :rocket:  &nbsp; Estou estudando na **Digital Innovation One**
- <br/> :computer: &nbsp; Stack do bootcamp: Angular e Java
+ :rocket:  &nbsp; Estou participando do bootcamp Ignite na **Rocketseat**
+ <br/> :computer: &nbsp; Stack do bootcamp: ReactJS ⚛️
  <br/> 💬  &nbsp; Sobre mim: Curto fazer trilhas, ir na praia fazer e outras atividades ao ar livre, sou artista marcial e faço yoga :sunny:
  <br/> :email: &nbsp; Entre em contato comigo ou saiba mais: [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/) 
 | 
