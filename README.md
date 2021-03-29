@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-Sou pesquisador de Iniciação Científica em Neuroimagem e Psicofisiologia na UFRJ 🧠
+Sou pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ 🧠
 <br/> Além disso, eu estou me tornando desenvolvedor web :computer:
 
  :rocket:  &nbsp; Estou participando do bootcamp Ignite na **Rocketseat**
