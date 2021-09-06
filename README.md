@@ -1,12 +1,11 @@
 ## Olá pessoal 👋
 
-Sou pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ 🧠
-<br/> Além disso, eu estou me tornando desenvolvedor web :computer:
-
- :rocket:  &nbsp; Sou recém-formado no bootcamp **JavaScript Game Developer** na Digital Innovation One :rocket:
- <br/> 🎮 Stack do bootcamp: HTML5, CSS3 E JavaScript ES6, com foco em games 🎮
- <br/> :computer: &nbsp; Também tenho experiências com TypeScript, ReactJS e NodeJS :computer:
- <br/> 💬  &nbsp; Sobre mim: Curto fazer trilhas, ir na praia fazer e outras atividades ao ar livre, sou artista marcial e faço yoga, quero aprender chinês e a tocar violoncelo :sunny:
+:computer: Sou dev Front End :computer:
+<br/> 🧠 Além disso, sou pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ 🧠
+<br/> :rocket:  &nbsp; Sou recém-formado no bootcamp **JavaScript Game Developer** na Digital Innovation One :rocket:
+<br/> 🎮 Stack do bootcamp: HTML5, CSS3 E JavaScript ES6, com foco em games 🎮
+<br/> :computer: &nbsp; Também tenho experiências com TypeScript, ReactJS e NodeJS :computer:
+<br/> 💬  &nbsp; Sobre mim: Curto fazer trilhas, ir na praia fazer e outras atividades ao ar livre, sou artista marcial e faço yoga, quero aprender chinês e a tocar violoncelo :sunny:
  <br/> :email: &nbsp; Entre em contato comigo ou saiba mais: [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
