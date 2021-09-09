@@ -1,8 +1,8 @@
 ## Olá pessoal 👋
 
 :computer: Sou dev Front End
-<br/> 🧠 Além disso, sou pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ
-<br/> :rocket:  &nbsp; Sou recém-formado no bootcamp **JavaScript Game Developer** na Digital Innovation One
+<br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ
+<br/> :rocket:  &nbsp; Recém-formado no bootcamp **JavaScript Game Developer** na Digital Innovation One
 <br/> 🎮 Stack do bootcamp: HTML5, CSS3 E JavaScript ES6, com foco em games
 <br/> :computer: &nbsp; Também tenho experiências com TypeScript, ReactJS e NodeJS
 <br/>
