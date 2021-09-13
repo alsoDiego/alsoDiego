@@ -3,7 +3,7 @@
 :computer: Sou dev Front End
 <br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ
 <br/> :rocket: Recém-formado no bootcamp **JavaScript Game Developer** na Digital Innovation One
-<br/> :computer: Também tenho experiências com TypeScript, ReactJS e NodeJS
+<br/> :computer: Também tenho experiências com TypeScript e ReactJS
 <br/>
 <br/> 💬  Sobre mim: Curto fazer trilhas, ir na praia fazer e outras atividades ao ar livre, sou artista marcial e faço yoga, quero aprender chinês e a tocar violoncelo :sunny:
 <br/>
