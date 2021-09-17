@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-:computer: Sou dev Front End
+:computer: Sou dev Front-End
 <br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia - UFRJ
 <br/> :rocket: Recém-formado no bootcamp **JavaScript Game Developer** - Digital Innovation One
 <br/> :computer: Também tenho experiências com TypeScript e ReactJS
