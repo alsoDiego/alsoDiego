@@ -5,7 +5,7 @@
 <br/> :rocket: Recém-formado no bootcamp **JavaScript Game Developer** - Digital Innovation One
 <br/> :computer: Também tenho experiências com TypeScript e ReactJS
 <br/>
-<br/> 💬  Sobre mim: Curto fazer trilhas, ir na praia fazer e outras atividades ao ar livre, sou artista marcial e yogi, quero aprender chinês e a tocar violoncelo :sunny:
+<br/> 💬  Sobre mim: Curto atividades ao ar livre, sou artista marcial e yogi, quero aprender chinês e a tocar violoncelo :sunny:
 <br/>
  <br/> :email: &nbsp; Entre em contato comigo ou saiba mais: [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/) 
 | 
