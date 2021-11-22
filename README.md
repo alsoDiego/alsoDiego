@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-:computer: Sou dev Front-End
+:computer: Sou um futuro desenvolvedor
 <br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
 <br/> :rocket: Recém-formado no curso **Webdesign Completo**, da OrigamiD
 <br/> 💻 Agora aprendendo: Python e SQL
