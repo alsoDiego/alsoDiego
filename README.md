@@ -4,7 +4,7 @@ Eu sou o Diego
 <br/> :computer: Futuro dev
 <br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
 <br/> :rocket: Recém-formado no curso **Webdesign Completo**, da OrigamiD
-<br/> 💻 Agora aprendendo: Python e SQL
+<br/> :snake: Agora aprendendo: Python e SQL
 <br/>
 <br/> 💬 Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo :sunny:
 <br/>
