@@ -3,7 +3,7 @@
 :computer: Futuro dev
 <br/> :snake: Aprendendo: Python e SQL
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
-<br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
+<br/> 🧠 Voluntário no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo
 <br/>
