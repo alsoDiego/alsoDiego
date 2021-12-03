@@ -1,9 +1,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=green" alt="Profile views" /> </p>
 :computer: Futuro dev
-<br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
-<br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
 <br/> :snake: Aprendendo: Python e SQL
+<br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
+<br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo
 <br/>
