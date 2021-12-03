@@ -1,3 +1,4 @@
+<img align="right" height="320em" src="https://user-images.githubusercontent.com/68669255/144671801-5357299e-0306-447e-8d36-99ce6b3e2b36.gif" alt="ASCII pikachu">
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=green" alt="Profile views" /> </p>
 :computer: Futuro dev
@@ -36,11 +37,6 @@
 [![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
 
 <!--
-
-<br/> :computer: Agora aprendendo CSS Grid Layout
- :sunny:
-**soares-ad/soares-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Photo: <img width="auto" src="https://avatars3.githubusercontent.com/u/68669255?s=460&u=00b976f06ad799b0f7aa99770dfc72f4b43b47f0&v=4">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
