@@ -23,18 +23,18 @@
 
 <br/>
 
+## Fale comigo ou saiba mais
+[![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-162E1C?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
+[![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
+
+<br/>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=merko" alt="soares-ad's stats"/>
 </p>
-
-<br/>
-
-## Fale comigo ou saiba mais
-[![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-162E1C?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
-[![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
 
 <!--
 
