@@ -23,7 +23,9 @@
 <br>
 
 ## Fale comigo ou saiba mais
-[![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)  [![Badge](https://img.shields.io/badge/-Lattes-blue?style=flat-square&link=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
+[![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-05122A?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
+[![Badge](https://img.shields.io/badge/-Lattes-05122A?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
 
 <!--
 
