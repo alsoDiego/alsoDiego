@@ -6,8 +6,8 @@
 <br/> :snake: Aprendendo: Python e SQL
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo
-
-<br><br>
+<br/>
+<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,7 +20,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br/>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=merko" alt="soares-ad's stats"/>
+</p>
+
+<br/>
 
 ## Fale comigo ou saiba mais
 [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-05122A?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
