@@ -1,7 +1,5 @@
-## Olá pessoal 👋
-Eu sou o Diego
-<br/>
-<br/> :computer: Futuro dev
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
+:computer: Futuro dev
 <br/> 🧠 Pesquisador de Iniciação Científica no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
 <br/> :rocket: Recém-formado no curso de **Python** da Kaggle
 <br/> :snake: Aprendendo: Python e SQL
