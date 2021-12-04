@@ -20,8 +20,8 @@
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender chinês e violoncelo
 <br/>
 <br/>
-<img align="right" width="480em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
-<img align="right" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soares-ad&layout=compact&hide=php,typescript&langs_count=4&border_radius=0&theme=vue" alt="soares-ad's most languages"/>
+<img align="right" width="520em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
+<img align="right" width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soares-ad&layout=compact&hide=php,typescript&langs_count=4&border_radius=0&theme=vue" alt="soares-ad's most languages"/>
 
 ## 🛠 &nbsp;Tech Stack
 
