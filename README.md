@@ -9,7 +9,7 @@
 
 <img align="right" height="300em" src="https://user-images.githubusercontent.com/68669255/144671801-5357299e-0306-447e-8d36-99ce6b3e2b36.gif" alt="ASCII pikachu">
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=162E1C" alt="Profile views" /> </p>
 :computer: Futuro dev
 <br/> :snake: Aprendendo: Python e SQL
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
