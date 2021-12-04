@@ -17,7 +17,7 @@
 <br/> 🔭 Procurando oportunidade como suporte de TI ou dev júnior
 <br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
 <br/>
-<br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender chinês e violoncelo
+<br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender Chinês e violoncelo
 <br/>
 <br/>
 <img align="right" width="520em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
