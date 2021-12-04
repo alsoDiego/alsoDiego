@@ -14,8 +14,10 @@
 <br/> :snake: Aprendendo: Python e SQL
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
 <br/> 🧠 Voluntário no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
+<br/> 🔭 Procurando oportunidade como suporte de TI ou dev júnior
+<br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
 <br/>
-<br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo
+<br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender chinês e violoncelo
 <br/>
 <br/>
 <img align="right" width="480em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
