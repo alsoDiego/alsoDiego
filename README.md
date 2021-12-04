@@ -20,7 +20,6 @@
 <br/>
 
 ## 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-python-162E1C?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-162E1C?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-162E1C?style=flat&logo=HTML5)&nbsp;
@@ -31,6 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-162E1C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=vue" alt="soares-ad's stats"/>
 
 ## Fale comigo ou saiba mais
 [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
@@ -38,12 +38,6 @@
 [![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
 
 <br/>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=vue" alt="soares-ad's stats"/>
-</p>
 
 <!--
 Rascunho:
