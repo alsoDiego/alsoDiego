@@ -3,7 +3,7 @@
   Curtiu o readme e veio ver como eu fiz? Que legal!! 😄
     •  Os badges são do site https://shields.io
     •  Os Github Stats são do repo https://github.com/anuraghazra/github-readme-stats
-    •  E o pikachu é só se você desejar do fundo do coração se tornar um mestre pokémon ⚡
+    •  E o pikachu é só se você desejar do fundo do coração tornar-se um mestre pokémon ⚡
 
 -->
 
@@ -18,19 +18,21 @@
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, falo Inglês e Espanhol e toco bateria, quero aprender chinês e violoncelo
 <br/>
 <br/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soares-ad&layout=compact&hide=php,typescript&langs_count=4&border_radius=0&theme=vue" alt="soares-ad's most languages"/>
 
 ## 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-python-162E1C?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-162E1C?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-162E1C?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-162E1C?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-162E1C?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-162E1C?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-162E1C?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-162E1C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![Python](https://img.shields.io/badge/-python-162E1C?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-162E1C?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-162E1C?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-162E1C?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-162E1C?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-162E1C?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-162E1C?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-162E1C?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
 
 ## Fale comigo ou saiba mais
 [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
