@@ -42,7 +42,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=merko" alt="soares-ad's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=vue" alt="soares-ad's stats"/>
 </p>
 
 <!--
