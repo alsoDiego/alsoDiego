@@ -1,3 +1,12 @@
+<!--
+
+  Curtiu o readme e veio ver como eu fiz? Que legal!! 😄
+    •  Os badges são do site https://shields.io
+    •  Os Github Stats são do repo https://github.com/anuraghazra/github-readme-stats
+    •  E o pikachu é só se você desejar do fundo do coração se tornar um mestre pokémon ⚡
+
+-->
+
 <img align="right" height="320em" src="https://user-images.githubusercontent.com/68669255/144671801-5357299e-0306-447e-8d36-99ce6b3e2b36.gif" alt="ASCII pikachu">
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=green" alt="Profile views" /> </p>
@@ -37,13 +46,12 @@
 </p>
 
 <!--
+Rascunho:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
