@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-162E1C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br/>
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&show_icons=true&theme=vue" alt="soares-ad's stats"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&theme=vue" alt="soares-ad's stats"/>
 
 ## Fale comigo ou saiba mais
 [![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
