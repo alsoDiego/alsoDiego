@@ -10,6 +10,9 @@
 <img align="right" height="300em" src="https://user-images.githubusercontent.com/68669255/144671801-5357299e-0306-447e-8d36-99ce6b3e2b36.gif" alt="ASCII pikachu">
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=162E1C" alt="Profile views" /> </p>
+
+[![Badge](https://img.shields.io/badge/-Currículo-162E1C?style=flat&logo)](https://www.canva.com/design/DAD17BE54GE/5u_DpEeVK7ON6vSYnmrihA/view?utm_content=DAD17BE54GE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 :computer: Futuro dev
 <br/> :snake: Aprendendo: Python e SQL
 <br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
