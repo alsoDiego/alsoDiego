@@ -12,10 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soares-ad&color=162E1C" alt="Profile views" /> </p>
 :computer: Futuro dev
 <br/> :snake: Aprendendo: Python e SQL
+<br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
 <br/> 🧠 Voluntário no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
-<br/> 🔭 Procurando oportunidade como suporte de TI ou dev júnior
-<br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
+<br/> 🔭 Procurando oportunidade como suporte de TI ou atendimento em empresa de tecnoligia
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender Chinês e violoncelo
 <br/>
