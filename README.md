@@ -15,13 +15,22 @@
 <br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
 <br/> 🧠 Voluntário no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
-<br/> 🔭 Procurando oportunidade como suporte de TI ou atendimento em empresa de tecnoligia
+<br/> 🔭 Procurando oportunidade como suporte de TI ou atendimento em empresa de tecnologia
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender Chinês e violoncelo
 <br/>
 <br/>
 <img align="right" width="520em" src="https://github-readme-stats.vercel.app/api?username=soares-ad&hide=issues,contribs&show_icons=true&border_radius=0&theme=vue" alt="soares-ad's stats"/>
 <img align="right" width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soares-ad&layout=compact&hide=php,typescript&langs_count=4&border_radius=0&theme=vue" alt="soares-ad's most languages"/>
+
+
+## Currículo e contato
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
+[![Badge](https://img.shields.io/badge/-Currículo-162E1C?style=flat&logo)](https://www.canva.com/design/DAD17BE54GE/5u_DpEeVK7ON6vSYnmrihA/view?utm_content=DAD17BE54GE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-162E1C?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
+[![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
+
 <br/>
 
 ## 🛠 &nbsp;Tech Stack
@@ -34,15 +43,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-162E1C?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-162E1C?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-162E1C?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-## Fale comigo ou saiba mais
-[![Linkedin Badge](https://img.shields.io/badge/-DiegoSoares-162E1C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoasoares/)](https://www.linkedin.com/in/diegoasoares/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-162E1C?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto.diego.s@gmail.com)](mailto:augusto.diego.s@gmail.com)
-[![Badge](https://img.shields.io/badge/-Lattes-162E1C?style=flat&logo=http://lattes.cnpq.br/7341316609743747)](http://lattes.cnpq.br/7341316609743747)
-
-<br/>
 
 <!--
 Rascunho:
