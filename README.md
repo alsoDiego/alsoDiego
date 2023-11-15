@@ -13,12 +13,12 @@
 
 [![Badge](https://img.shields.io/badge/-Currículo-162E1C?style=flat&logo)](https://www.canva.com/design/DAD17BE54GE/5u_DpEeVK7ON6vSYnmrihA/view?utm_content=DAD17BE54GE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-:computer: Futuro dev
+:computer: Futuro cientista de dados
 <br/> :snake: Aprendendo: Python e SQL
 <br/> 💬 Posso te ajudar com HTML, CSS e JavaScript
 <br/> :rocket: Recém-formado no curso de <strong>Python</strong> da Kaggle
 <br/> 🧠 Voluntário no Laboratório de Neuroimagem e Psicofisiologia da UFRJ
-<br/> 🔭 Procurando oportunidade como suporte de TI ou atendimento em empresa de tecnologia
+<br/> 🔭 Procurando oportunidades como assistente de dados, analista de dados jr ou cientista de dados jr
 <br/>
 <br/> ⚡ Curto atividades ao ar livre, sou artista marcial e yogi, toco bateria, falo Inglês e Espanhol, quero aprender Chinês e violoncelo
 <br/>
